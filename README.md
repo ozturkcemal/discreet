@@ -145,8 +145,8 @@ owap_model.addConstr( x[('Chicago-IL', 'New York-NY')]
 owap_model.optimize()
 ```
 
-### Two-Way Assignment Model
 <a id='twap'></a>
+### Two-Way Assignment Model
 
 Before runing the code in the listing below, you should run the code in listing [Appendix Code 1](#appendix_code_1).
 
@@ -274,8 +274,8 @@ visualize_solution(x, coordinates, distance)
 print("Duration:", end_time - start_time)
 ```
 
-### TSP Callback Function
 <a id='callback'></a>
+### TSP Callback Function
 
 ```python
 def callback_function(model, where):
@@ -332,9 +332,8 @@ show(coordinates, solution)
 
 ### Supporting Functions for Listings in Sections 6, 8, and 9
 
-#### Appendix Code 1
-
 <a id='appendix_code_1'></a>
+#### Appendix Code 1
 
 ```python
 import math
@@ -417,9 +416,8 @@ These are the first 20 lines of the file [1000-cities.csv](1000-cities.csv). The
 
 ### Additional Supporting Functions for Listing in Section 9
 
-#### Appendix Code 2
-
 <a id='appendix_code_2'></a>
+#### Appendix Code 2
 
 ```python
 def total_distance(distance, solution): 
