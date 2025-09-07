@@ -4,7 +4,7 @@ Author: **Thiago Serra**
 
 Last Update: September 7, 2025
 
-This is the companion website for a tutorial introducing computational discrete optimization through integer linear programming, Python, and Gurobi. The tutorial can be downloaded by clicking on the page title, or from one of the following repositories:
+This is the companion website for a tutorial introducing computational discrete optimization through integer linear programming, Python, and Gurobi. The tutorial can be downloaded by clicking on the page title, or from one of the following preprint repositories:
 
 - arXiv (publication on hold)
 - [Optimization Online](https://optimization-online.org/?p=31715) (link will work when publication is approved)
