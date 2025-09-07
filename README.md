@@ -4,7 +4,10 @@ Author: **Thiago Serra**
 
 Last Update: September 7, 2025
 
-This page contains all the listings of the article under [an MIT license](https://github.com/thserra/discreet/blob/main/LICENSE). 
+This page contains all the listings of the article under [an MIT license](https://github.com/thserra/discreet/blob/main/LICENSE). The paper itself can be downloaded by clicking on the page title, or from one of the following repositories:
+
+- arXiv (publication on hold)
+- [Optimization Online](https://optimization-online.org/?p=31715) (link will work when publication is approved)
 
 You can also download all of them as [a Jupyter Notebook](Listings.ipynb). 
 
