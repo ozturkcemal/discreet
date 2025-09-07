@@ -4,10 +4,14 @@ Author: **Thiago Serra** ([Website](https://thiagoserra.com/)) ([Google Scholar]
 
 Last Update: September 7, 2025
 
+## The Tutorial
+
 This is the companion website for a tutorial introducing computational discrete optimization through integer linear programming, Python, and Gurobi. The tutorial can be downloaded by clicking on the page title, or from one of the following preprint repositories:
 
 - arXiv (publication on hold)
 - [Optimization Online](https://optimization-online.org/?p=31715) (link will work when publication is approved)
+
+## Code and Data
 
 This page also contains all the listings of the article under [an MIT license](https://github.com/thserra/discreet/blob/main/LICENSE). 
 
