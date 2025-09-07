@@ -1,4 +1,4 @@
-# What is the Best Way to Do Something? <br> A Discreet Tour of Discrete Optimization
+# [What is the Best Way to Do Something? <br> A Discreet Tour of Discrete Optimization](main-v2.1-arXiv.pdf)
 
 Author: **Thiago Serra**
 
