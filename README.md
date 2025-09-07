@@ -1,4 +1,14 @@
-# TBD
+# What is the Best Way to Do Something? <br> A Discreet Tour of Discrete Optimization
+
+Author: **Thiago Serra**
+
+Last Update: September 7, 2025
+
+This page contains all the listings of the article under [an MIT license](https://github.com/thserra/discreet/blob/main/LICENSE). 
+
+You can also download all of them as [a Jupyter Notebook](Listings.ipynb). 
+
+And here is [the CSV data](https://github.com/thserra/discreet/blob/main/1000-cities.csv). That data was originally obtained from what is now [this broken link](https://public.opendatasoft.com/explore/dataset/1000-largest-us-cities-by-population-with-geographic-coordinates/table/?sort=-rank).
 
 # Listings
 
