@@ -10,7 +10,7 @@ I wrote a tutorial inspired by my experience conducting research with undergradu
 
 The tutorial can be downloaded by clicking on the page title, or from one of the following preprint repositories:
 
-- arXiv (publication on hold)
+- [arXiv](https://arxiv.org/abs/2509.05932)
 - [Optimization Online](https://optimization-online.org/?p=31715)
 
 ## Code and Data
