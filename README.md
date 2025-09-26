@@ -2,7 +2,7 @@
 
 Author: **Thiago Serra** ([Website](https://thiagoserra.com/)) ([Google Scholar](https://scholar.google.com/citations?user=Wyk2Q9sAAAAJ))
 
-Last Update: September 8, 2025
+Last Update: September 26, 2025
 
 ## The Tutorial
 
